@@ -1,0 +1,24 @@
+# Compiled source
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+.DS_Store
+data
+*.ipynb
